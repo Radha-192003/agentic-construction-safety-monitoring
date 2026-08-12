@@ -1,0 +1,54 @@
+# =========================
+# PYTHON
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# =========================
+# UPLOADED / GENERATED DATA
+# =========================
+
+backend/uploads/
+backend/runs/
+
+# =========================
+# NODE / FRONTEND
+# =========================
+
+node_modules/
+frontend/dist/
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# LOGS / TEMP
+# =========================
+
+*.log
+*.tmp
+*.temp
+
+# Datasets
+datasets/
